@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4472d4c2-4a84-47b8-aeda-62353cf9db16" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogengine/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogengine/blog/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogengine/blog/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogengine/blog/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogengine/blog/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogengine/blog/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogengine/blog/migrations/0002_auto_20190503_1753.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogengine/blog/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogengine/blog/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogengine/blog/templates/blog/base_blog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogengine/blog/templates/blog/includes/post_card_template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogengine/blog/templates/blog/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogengine/blog/templates/blog/post_create_form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogengine/blog/templates/blog/post_detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogengine/blog/templates/blog/tag_create.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogengine/blog/templates/blog/tag_detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogengine/blog/templates/blog/tags_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogengine/blog/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogengine/blog/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogengine/blog/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogengine/blog/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogengine/blogengine/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogengine/blogengine/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogengine/blogengine/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogengine/blogengine/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogengine/blogengine/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogengine/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogengine/templates/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/envwin/Scripts/Activate.ps1" beforeDir="false" afterPath="$PROJECT_DIR$/envwin/Scripts/Activate.ps1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/envwin/Scripts/activate" beforeDir="false" afterPath="$PROJECT_DIR$/envwin/Scripts/activate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/envwin/Scripts/activate.bat" beforeDir="false" afterPath="$PROJECT_DIR$/envwin/Scripts/activate.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/envwin/Scripts/django-admin.exe" beforeDir="false" afterPath="$PROJECT_DIR$/envwin/Scripts/django-admin.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/envwin/Scripts/django-admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/envwin/Scripts/django-admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/envwin/Scripts/easy_install-3.7.exe" beforeDir="false" afterPath="$PROJECT_DIR$/envwin/Scripts/easy_install-3.7.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/envwin/Scripts/easy_install.exe" beforeDir="false" afterPath="$PROJECT_DIR$/envwin/Scripts/easy_install.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/envwin/Scripts/pip.exe" beforeDir="false" afterPath="$PROJECT_DIR$/envwin/Scripts/pip.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/envwin/Scripts/pip3.7.exe" beforeDir="false" afterPath="$PROJECT_DIR$/envwin/Scripts/pip3.7.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/envwin/Scripts/pip3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/envwin/Scripts/pip3.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/envwin/Scripts/sqlformat.exe" beforeDir="false" afterPath="$PROJECT_DIR$/envwin/Scripts/sqlformat.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/envwin/pyvenv.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/envwin/pyvenv.cfg" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1273" />
+    <option name="width" value="1294" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="3may" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3may" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="3may" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3may" type="462c0819:PsiDirectoryNode" />
+              <item name="blogengine_" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="3may" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3may" type="462c0819:PsiDirectoryNode" />
+              <item name="blogengine_" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4472d4c2-4a84-47b8-aeda-62353cf9db16" name="Default Changelist" comment="" />
+      <created>1557064064526</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557064064526</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1273" y="0" width="1294" height="1047" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32932165" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+</project>
