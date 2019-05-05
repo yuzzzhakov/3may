@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4472d4c2-4a84-47b8-aeda-62353cf9db16" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blogengine/blog/templates/blog/post_update_form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogengine/blog/templates/blog/tag_update_form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogengine/blog/templates/blog/post_delete_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogengine/blog/templates/blog/tag_delete_form.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blogengine/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/blogengine/blog/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blogengine/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/blogengine/blog/urls.py" afterDir="false" />
@@ -23,8 +22,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blogengine/blog/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="280">
+              <caret line="14" column="68" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="68" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -33,10 +32,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/blogengine/blog/utils.py">
+        <entry file="file://$PROJECT_DIR$/blogengine/blog/templates/blog/post_delete_form.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="516">
-              <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+            <state relative-caret-position="340">
+              <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blogengine/blog/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="576">
+              <caret line="113" column="34" selection-start-line="113" selection-start-column="34" selection-end-line="113" selection-end-column="34" />
               <folding>
                 <element signature="e#0#64#0" expanded="true" />
               </folding>
@@ -45,10 +53,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blogengine/blog/views.py">
+        <entry file="file://$PROJECT_DIR$/blogengine/blog/utils.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="86" selection-start-line="86" selection-end-line="86" />
+            <state relative-caret-position="336">
+              <caret line="51" column="23" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="23" />
               <folding>
                 <element signature="e#0#64#0" expanded="true" />
               </folding>
@@ -59,29 +67,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blogengine/blog/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
-              <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+            <state relative-caret-position="310">
+              <caret line="34" column="28" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blogengine/blog/templates/blog/post_update_form.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blogengine/blog/templates/blog/tag_update_form.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -94,12 +84,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/blogengine/blog/models.py" />
         <option value="$PROJECT_DIR$/blogengine/blog/templates/blog/tag_update_form.html" />
-        <option value="$PROJECT_DIR$/blogengine/blog/urls.py" />
-        <option value="$PROJECT_DIR$/blogengine/blog/views.py" />
         <option value="$PROJECT_DIR$/blogengine/blog/templates/blog/post_update_form.html" />
+        <option value="$PROJECT_DIR$/blogengine/blog/models.py" />
+        <option value="$PROJECT_DIR$/blogengine/blog/templates/blog/tag_delete_form.html" />
         <option value="$PROJECT_DIR$/blogengine/blog/utils.py" />
+        <option value="$PROJECT_DIR$/blogengine/blog/views.py" />
+        <option value="$PROJECT_DIR$/blogengine/blog/urls.py" />
+        <option value="$PROJECT_DIR$/blogengine/blog/templates/blog/post_delete_form.html" />
       </list>
     </option>
   </component>
@@ -247,13 +239,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blogengine/blog/views.py">
+    <entry file="file://$PROJECT_DIR$/blogengine/blog/templates/blog/post_update_form.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="86" selection-start-line="86" selection-end-line="86" />
-          <folding>
-            <element signature="e#0#64#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="520">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
@@ -264,40 +253,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blogengine/blog/templates/blog/post_update_form.html">
+    <entry file="file://$PROJECT_DIR$/blogengine/blog/utils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogengine/blog/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+        <state relative-caret-position="336">
+          <caret line="51" column="23" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="23" />
           <folding>
-            <element signature="e#0#28#0" expanded="true" />
+            <element signature="e#0#64#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blogengine/blog/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="280">
+          <caret line="14" column="68" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="68" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blogengine/blog/utils.py">
+    <entry file="file://$PROJECT_DIR$/blogengine/blog/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+        <state relative-caret-position="310">
+          <caret line="34" column="28" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogengine/blog/templates/blog/tag_delete_form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogengine/blog/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="113" column="34" selection-start-line="113" selection-start-column="34" selection-end-line="113" selection-end-column="34" />
           <folding>
             <element signature="e#0#64#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogengine/blog/templates/blog/post_delete_form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
         </state>
       </provider>
     </entry>
