@@ -2,49 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4472d4c2-4a84-47b8-aeda-62353cf9db16" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogengine/blog/templates/blog/post_update_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogengine/blog/templates/blog/tag_update_form.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogengine/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogengine/blog/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogengine/blog/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogengine/blog/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogengine/blog/forms.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogengine/blog/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogengine/blog/migrations/0002_auto_20190503_1753.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogengine/blog/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogengine/blog/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogengine/blog/templates/blog/base_blog.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogengine/blog/templates/blog/includes/post_card_template.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogengine/blog/templates/blog/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogengine/blog/templates/blog/post_create_form.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogengine/blog/templates/blog/post_detail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogengine/blog/templates/blog/tag_create.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogengine/blog/templates/blog/tag_detail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogengine/blog/templates/blog/tags_list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogengine/blog/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogengine/blog/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogengine/blog/utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogengine/blog/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogengine/blogengine/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogengine/blogengine/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogengine/blogengine/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogengine/blogengine/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogengine/blogengine/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogengine/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogengine/templates/base.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/envwin/Scripts/Activate.ps1" beforeDir="false" afterPath="$PROJECT_DIR$/envwin/Scripts/Activate.ps1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/envwin/Scripts/activate" beforeDir="false" afterPath="$PROJECT_DIR$/envwin/Scripts/activate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/envwin/Scripts/activate.bat" beforeDir="false" afterPath="$PROJECT_DIR$/envwin/Scripts/activate.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/envwin/Scripts/django-admin.exe" beforeDir="false" afterPath="$PROJECT_DIR$/envwin/Scripts/django-admin.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/envwin/Scripts/django-admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/envwin/Scripts/django-admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/envwin/Scripts/easy_install-3.7.exe" beforeDir="false" afterPath="$PROJECT_DIR$/envwin/Scripts/easy_install-3.7.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/envwin/Scripts/easy_install.exe" beforeDir="false" afterPath="$PROJECT_DIR$/envwin/Scripts/easy_install.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/envwin/Scripts/pip.exe" beforeDir="false" afterPath="$PROJECT_DIR$/envwin/Scripts/pip.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/envwin/Scripts/pip3.7.exe" beforeDir="false" afterPath="$PROJECT_DIR$/envwin/Scripts/pip3.7.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/envwin/Scripts/pip3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/envwin/Scripts/pip3.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/envwin/Scripts/sqlformat.exe" beforeDir="false" afterPath="$PROJECT_DIR$/envwin/Scripts/sqlformat.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/envwin/pyvenv.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/envwin/pyvenv.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogengine/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/blogengine/blog/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogengine/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/blogengine/blog/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogengine/blog/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/blogengine/blog/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogengine/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blogengine/blog/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogengine/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/blogengine/db.sqlite3" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,8 +18,90 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blogengine/blog/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blogengine/blog/utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="516">
+              <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+              <folding>
+                <element signature="e#0#64#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blogengine/blog/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="86" selection-start-line="86" selection-end-line="86" />
+              <folding>
+                <element signature="e#0#64#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blogengine/blog/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="430">
+              <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blogengine/blog/templates/blog/post_update_form.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="520">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blogengine/blog/templates/blog/tag_update_form.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/blogengine/blog/models.py" />
+        <option value="$PROJECT_DIR$/blogengine/blog/templates/blog/tag_update_form.html" />
+        <option value="$PROJECT_DIR$/blogengine/blog/urls.py" />
+        <option value="$PROJECT_DIR$/blogengine/blog/views.py" />
+        <option value="$PROJECT_DIR$/blogengine/blog/templates/blog/post_update_form.html" />
+        <option value="$PROJECT_DIR$/blogengine/blog/utils.py" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="1273" />
@@ -76,12 +124,27 @@
             <path>
               <item name="3may" type="b2602c69:ProjectViewProjectNode" />
               <item name="3may" type="462c0819:PsiDirectoryNode" />
-              <item name="blogengine_" type="462c0819:PsiDirectoryNode" />
+              <item name="blogengine" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="3may" type="b2602c69:ProjectViewProjectNode" />
               <item name="3may" type="462c0819:PsiDirectoryNode" />
-              <item name="blogengine_" type="462c0819:PsiDirectoryNode" />
+              <item name="blogengine" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="3may" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3may" type="462c0819:PsiDirectoryNode" />
+              <item name="blogengine" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="3may" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3may" type="462c0819:PsiDirectoryNode" />
+              <item name="blogengine" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -92,6 +155,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/blogengine/blog/templates/blog" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\andre\Desktop\MyPythonProjects\3may\blogengine\blog\templates\blog" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\andre\Desktop\MyPythonProjects\3may\blogengine\blog\templates\blog" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -120,14 +192,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1273" y="0" width="1294" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20063694" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32932165" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -135,9 +204,102 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32932165" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.21444201" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/blogengine/blog/templates/blog/tag_create.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="27" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogengine/blog/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
+          <folding>
+            <element signature="e#0#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogengine/blog/templates/blog/tag_update_form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogengine/blog/templates/blog/post_update_form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogengine/blog/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogengine/blog/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogengine/blog/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <element signature="e#0#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
